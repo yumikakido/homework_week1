@@ -17,7 +17,8 @@ p {
     font-size: 16px;
 }
 
-/* header */
+/* header
+---------------------------------------------------- */
 #header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,7 +43,8 @@ ul.gnav li {
     padding: 1em;
 }
 
-/* main */
+/* main
+---------------------------------------------------- */
 .hero {
     height: 800px;
     width: 100%;
@@ -52,6 +54,8 @@ ul.gnav li {
     background-position: center;
 }
 
+/* section1
+---------------------------------------------------- */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -62,7 +66,6 @@ ul.gnav li {
     margin-left: 25px;
 }
 
-/* section1 */
 .content {
     width: 75%;
     display: inline-block;
@@ -87,7 +90,8 @@ h2 {
     font-size: 36px;
 }
 
-/* section2 */
+/* section2
+---------------------------------------------------- */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,7 +119,8 @@ h3 {
     max-width: 150px;
 }
 
-/* footer */
+/* footer
+---------------------------------------------------- */
 #footer {
     padding: 30px;
     clear: both;
