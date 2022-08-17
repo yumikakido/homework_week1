@@ -45,6 +45,7 @@ ul.gnav li {
 
 /* main
 ---------------------------------------------------- */
+/* image of people */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,16 +57,6 @@ ul.gnav li {
 
 /* section1
 ---------------------------------------------------- */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
@@ -83,6 +74,18 @@ ul.gnav li {
 
 .section1Container img {
     max-height: 200px;
+}
+
+/* image floats to the left of its container */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* image floats to the right of its container */
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 h2 {
